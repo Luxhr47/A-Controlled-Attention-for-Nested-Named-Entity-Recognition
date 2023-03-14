@@ -1,0 +1,2 @@
+train --config configs/example_eval_genia.conf #模型训练
+eval --config configs/example_eval_genia.conf  #评估模型 并在输出目录下保存边界预测结果文件（B.txt、E.txt）

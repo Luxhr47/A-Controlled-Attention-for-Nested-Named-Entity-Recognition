@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="TCCI_2080TI@10.10.10.219:20066" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="TCCI30@10.10.10.217:20221">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/remote-home/TCCI30/lux/guoxiao/CA" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="TCCI_2080TI@10.10.10.219:20066">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/remote-home/TCCI_2080TI/guoxiao/project/CA" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
